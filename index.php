@@ -1,2 +1,3 @@
 <?php 
-phpinfo();
+//phpinfo();
+define('APPDIR','mulu');
